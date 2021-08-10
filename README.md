@@ -1,3 +1,3 @@
-# MERN Stack-exercise-tracker
+# MERN Stack exercise-tracker
 
 Implementation in ReactJS
